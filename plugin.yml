@@ -1,0 +1,14 @@
+name: RLMNewPlayerAlert
+main: com.rlminecraft.RLMNewPlayerAlert.RLMNewPlayerAlert
+version: 1.0
+author: MattFielding
+
+permissions:
+  rlmnewplayeralert.*:
+    description: Grants all plugin permissions
+    default: op
+    children:
+      rlmnewplayeralert.alert: true
+  rlmnewplayeralert.alert:
+    description: Allows players to see a message when a new player joins
+    default: op
