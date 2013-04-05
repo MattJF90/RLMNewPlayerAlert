@@ -1,4 +1,4 @@
-rlmnewplayeralert
+RLMNewPlayerAlert
 =================
 
 RLMNewPlayerAlert
